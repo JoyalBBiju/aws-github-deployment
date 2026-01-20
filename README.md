@@ -1,5 +1,7 @@
 # AWS GitHub Deployment – Mini DevOps Project
 
+linkedin post link (proof) :https://www.linkedin.com/posts/joyal-b-biju_awsdevopsstudyjourney-miniproject-aws-activity-7407805416119869440-ZTaC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOYVEUBMjlCxUnrt-z_-vsQbAqplN67pJ8
+
 ## 📌 Project Overview
 This mini project demonstrates how to integrate **GitHub with AWS EC2** for basic application deployment using Git.
 
